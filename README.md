@@ -114,4 +114,6 @@ CREATE TABLE registrations (
 ## Contact Details
 Name: Riddhi Bhojane
 
-Emails: bhojaneriddhi16@gmail.com
+Email: bhojaneriddhi16@gmail.com
+
+---
